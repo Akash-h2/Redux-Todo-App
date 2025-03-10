@@ -16,3 +16,6 @@ Features:
 💾 Persist todos using LocalStorage
 
 ⚡ Built with Redux Toolkit for state management
+
+![Screenshot 2025-03-10 195441](https://github.com/user-attachments/assets/77ad1e47-2b74-485a-b913-7e8c463b25fc)
+
